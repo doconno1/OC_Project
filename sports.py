@@ -101,3 +101,5 @@ with open('book_data.csv', 'w', newline='', encoding='utf-8') as f:
     writer.writerow(book_data.values())
     writer.writerow(book_data.values())
 # Removed incomplete 'with open' statement that caused a syntax error
+   
+    
